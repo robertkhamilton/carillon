@@ -1,8 +1,12 @@
 # carillon
 Carillon Demo README.txt
+
 by Rob Hamilton
+
 https://ccrma.stanford.edu/~rob/carillon
+
 @robertkhamilton
+
 Updated 6.5.2015
 
 ----- OVERVIEW -----
